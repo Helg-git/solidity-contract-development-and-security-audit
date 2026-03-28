@@ -1,0 +1,9 @@
+# Compiler output
+out/
+cache/
+
+# Foundry
+broadcast/
+
+# OS
+.DS_Store
